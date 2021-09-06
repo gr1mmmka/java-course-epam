@@ -1,0 +1,8 @@
+Anna Karenina-Lev Tolstoy-1867-
+Head First Java-Kathy Sierra-2001-
+Crime and Punishment-Fydor Dostoevskiy-1859-
+War and Peace-Lev Tolstoi-1873-
+Clean Code-Robert Martin-2008-http://cleancode.com-
+Hamlet-William Shekspire-1578-
+Effective Java-Joshua Bloch-1997-
+Java Concurrency in Practice-Brian Goetz-1995-

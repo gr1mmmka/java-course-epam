@@ -1,0 +1,3 @@
+golden sword;25.15
+silver coin;5.0
+silver coin;5.0
